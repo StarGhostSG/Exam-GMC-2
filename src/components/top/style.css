@@ -11,7 +11,7 @@
   width: 100%;
 }
 .TopCate .nametop span {
-  background: #4d4a4aad;
+  background: #f5f3ef;
   color: #04b0ff;
   font-size: 12px;
   padding: 5px 10px;
@@ -24,8 +24,11 @@
   left: 0;
 }
 .TopCate .nametop .tright {
-  background-color: #4d4a4aad;
+  background-color: #f5f3ef;
   color: #1f90c5;
   position: absolute;
   right: 0;
+}
+h2 {
+  color: #04b0ff;
 }

@@ -57,9 +57,10 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
           <div className='cart-total product'>
             <h2>Somme total</h2>
             <div className=' d_flex'>
-              <h4>Prix Total :</h4>
+              <h4 id="pxt">Prix Total :</h4>
               <h3>${totalPrice}.00</h3>
             </div>
+              <button className="btnach"> <a href="/" className="btna">Acheter</a></button>
           </div>
         </div>
       </section>

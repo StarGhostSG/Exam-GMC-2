@@ -1,9 +1,9 @@
 import React from "react"
 
 const Catg = () => {
-  const data = [
+  // const data = [
  
-  ]
+  // ]
   return (
     <>
     </>

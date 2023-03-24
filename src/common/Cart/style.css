@@ -1,7 +1,7 @@
 .cart-items {
-  background: #282c31;
+  background: #f5f3ef;
   height: auto;
-  padding: 50px 0;
+  padding: 100px 0;
 }
 
 .cart-items .cart-details {
@@ -65,7 +65,9 @@
   color: #1f90c5;
 }
 .desCart {
-  background: #302f2fad;
+  background: none;
+  border: 1px solid rgb(3 0 71 / 9%);
+  color: #1f90c5;
 }
 .cart-total h4 {
   font-size: 15px;
@@ -91,4 +93,19 @@
 }
 i {
   cursor: pointer;
+}
+#pxt {
+  font-size: 25px;
+}
+.btnach {
+  width: 110%;
+  height: 40px;
+  margin-top: 50px;
+  margin-left: -20px;
+  background-color: #1f90c5;
+  color: #fff;
+  cursor: pointer;
+}
+.btna {
+  color: white;
 }

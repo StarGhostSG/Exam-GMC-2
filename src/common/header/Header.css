@@ -69,7 +69,7 @@
   justify-content: end;
 }
 .catgrories {
-  background-color: #4d4a4aad;
+  background-color: #fff;
   padding: 0px 30px;
   border-radius: 5px;
   height: 6vh;
@@ -110,12 +110,12 @@ header ul li a:hover {
   display: none;
 }
 .search.active {
-  height: 12vh;
+  height: 11.5vh;
   position: fixed;
   top: 0;
   z-index: 1000;
   width: 100%;
-  background-color: #4d4a4aad;
+  background-color: #fff;
   box-shadow: -1px 11px 24px -11px rgba(0, 0, 0, 0.2);
   transition: 0.5s;
 }
@@ -134,7 +134,7 @@ header ul li a:hover {
     transition: all 0.5s ease-in-out;
     width: 60%;
     height: 100vh;
-    background-color: #4d4a4aad;
+    background-color: #1f90c5;
     z-index: 888;
   }
   header ul li {
@@ -160,7 +160,7 @@ header ul li a:hover {
     right: 45%;
   }
   .close.home-btn {
-    background: linear-gradient(145deg, #0099ff, #000000);
+    background: linear-gradient(145deg, #0099ff, #1f90c5);
     color: #1f90c5;
     border-radius: 50%;
     padding: 0;
@@ -176,7 +176,7 @@ header ul li a:hover {
   height: 30px;
 }
 .fhn {
-    color: black;
+    color: #1f90c5;
     font-weight: 800;
     font-style: italic;
     position: relative;

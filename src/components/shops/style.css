@@ -12,7 +12,7 @@
   padding-left: 70px;
 }
 .shop .category .box {
-  background-color: #4d4a4aad;
+  background-color: #f5f3ef;
   margin: 15px 0;
   padding: 5px 10px;
   transition: 0.5s;
@@ -23,7 +23,7 @@
   height: auto;
 }
 .shop .category .box:hover {
-  background-color: #ff000000;
+  background-color: #f5f3ef;
   box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
 }
 .shop .box2 {
